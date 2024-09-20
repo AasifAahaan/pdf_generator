@@ -3,6 +3,7 @@ import express, { Express } from "express"
 import cors from "cors"
 import { connectToDatabase } from "./config/database";
 import logger from "./utils/logger";
+import userRoutes from "../src/routes/userRoutes"
 
 const port = process.env.PORT || 9090;
 
@@ -28,6 +29,8 @@ app.use(
         optionsSuccessStatus: 200,
     })
 );
+
+app.use('/api/users', userRoutes);
 
 connectToDatabase()
   .then(() => {
