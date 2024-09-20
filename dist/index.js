@@ -8,6 +8,8 @@ const express_1 = __importDefault(require("express"));
 const cors_1 = __importDefault(require("cors"));
 const database_1 = require("./config/database");
 const logger_1 = __importDefault(require("./utils/logger"));
+const userRoutes_1 = __importDefault(require("../src/routes/userRoutes"));
+const productRoutes_1 = __importDefault(require("../src/routes/productRoutes"));
 const port = process.env.PORT || 9090;
 dotenv_1.default.config();
 dotenv_1.default.config({
@@ -25,6 +27,8 @@ app.use((0, cors_1.default)({
     credentials: true,
     optionsSuccessStatus: 200,
 }));
+app.use('/api/users', userRoutes_1.default);
+app.use('/api/add', productRoutes_1.default);
 (0, database_1.connectToDatabase)()
     .then(() => {
     app.listen(port, () => {

@@ -4,13 +4,14 @@ import cors from "cors"
 import { connectToDatabase } from "./config/database";
 import logger from "./utils/logger";
 import userRoutes from "../src/routes/userRoutes"
+import productRoutes from "../src/routes/productRoutes"
 
 const port = process.env.PORT || 9090;
 
 dotenv.config();
 dotenv.config({
-    path: ".env",
-    override: true,
+  path: ".env",
+  override: true,
 });
 
 const app: Express = express();
@@ -23,14 +24,15 @@ app.use(express.static("public"));
 
 
 app.use(
-    cors({
-        origin: process.env.ALLOWED_DOMAINS?.split(" "),
-        credentials: true,
-        optionsSuccessStatus: 200,
-    })
+  cors({
+    origin: process.env.ALLOWED_DOMAINS?.split(" "),
+    credentials: true,
+    optionsSuccessStatus: 200,
+  })
 );
 
 app.use('/api/users', userRoutes);
+app.use('/api/add', productRoutes)
 
 connectToDatabase()
   .then(() => {
