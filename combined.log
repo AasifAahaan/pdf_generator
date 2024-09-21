@@ -170,3 +170,137 @@
 {"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-20T16:16:56.510Z"}
 {"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-20T16:17:49.917Z"}
 {"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-20T16:17:49.922Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:09:41.495Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:09:41.504Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:14:24.315Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:14:24.320Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:14:30.926Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:14:30.934Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:14:48.703Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:14:48.709Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:15:00.976Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:15:00.982Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:15:08.347Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:15:08.354Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:18:55.507Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:18:55.519Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:22:42.435Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:22:42.443Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:23:28.491Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:23:28.499Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:23:35.440Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:23:35.448Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:23:51.219Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:23:51.224Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:24:08.206Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:24:08.212Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:25:50.503Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:25:50.509Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:26:04.221Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:26:04.228Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:26:14.178Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:26:14.185Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:26:51.124Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:26:51.130Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:28:39.773Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:28:39.782Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:28:46.429Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:28:46.437Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:28:54.413Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:28:54.421Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:29:00.766Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:29:00.771Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:29:24.831Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:29:24.836Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:29:36.962Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:29:36.970Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:29:49.301Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:29:49.307Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:32:51.066Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:32:51.071Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:33:51.375Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:33:51.381Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:36:56.441Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:36:56.445Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:48:04.974Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:48:04.980Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:49:43.489Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:49:43.494Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:50:07.352Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:50:07.359Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:51:18.574Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:51:18.582Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:56:15.682Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:56:15.690Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T17:57:51.250Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T17:57:51.262Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:00:59.319Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:00:59.327Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:03:38.525Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:03:38.531Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:04:04.870Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:04:04.876Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:04:22.086Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:04:22.092Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:04:38.882Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:04:38.891Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:06:30.392Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:06:30.401Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:06:44.337Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:06:44.346Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:10:05.065Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:10:05.070Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:10:12.701Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:10:12.710Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:10:23.659Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:10:23.668Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:13:04.122Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:13:04.128Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:13:26.314Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:13:26.319Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:13:43.147Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:13:43.152Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:15:11.660Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:15:11.668Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:17:04.512Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:17:04.518Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:17:32.709Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:17:32.717Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:18:54.835Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:18:54.842Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:25:16.582Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:25:16.591Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:31:43.864Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:31:43.872Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:36:07.651Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:36:07.659Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:37:42.114Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:37:42.122Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:37:54.239Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:37:54.246Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:41:40.040Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:41:40.046Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:44:11.689Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:44:11.698Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:44:40.060Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:44:40.068Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:44:57.057Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:44:57.063Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:46:02.488Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:46:02.494Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:46:24.705Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:46:24.710Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:46:46.617Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:46:46.622Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:47:23.799Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:47:23.805Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:47:44.068Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:47:44.074Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:48:02.401Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:48:02.406Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:48:22.985Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:48:22.991Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:51:02.937Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:51:02.945Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:51:41.783Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:51:41.797Z"}

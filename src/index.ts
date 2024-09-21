@@ -5,6 +5,8 @@ import { connectToDatabase } from "./config/database";
 import logger from "./utils/logger";
 import userRoutes from "../src/routes/userRoutes"
 import productRoutes from "../src/routes/productRoutes"
+const path = require('path');
+
 
 const port = process.env.PORT || 9090;
 
@@ -21,6 +23,10 @@ app.use(cors());
 app.use(express.json({ limit: "50mb" }));
 app.use(express.urlencoded({ limit: "50mb", extended: true }));
 app.use(express.static("public"));
+
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
+app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use(
@@ -46,3 +52,4 @@ connectToDatabase()
     // console.error('Failed to connect to the database', err);
     process.exit(1);
   });
+  
