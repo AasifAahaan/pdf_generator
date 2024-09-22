@@ -46,3 +46,12 @@ The quotation is saved at this path with a unique quotation name
 
 Used:-
 EJS, PDFKit, and Puppeteer libraries
+
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+
+Note:-
+It seems that you're trying to deploy on Render, but you're not receiving the email verification because your Gmail account is full and blocking incoming emails. Since this Gmail is linked to your GitHub account, you're unable to get the verification email.

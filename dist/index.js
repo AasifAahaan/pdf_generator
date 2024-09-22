@@ -10,6 +10,7 @@ const database_1 = require("./config/database");
 const logger_1 = __importDefault(require("./utils/logger"));
 const userRoutes_1 = __importDefault(require("../src/routes/userRoutes"));
 const productRoutes_1 = __importDefault(require("../src/routes/productRoutes"));
+const path = require('path');
 const port = process.env.PORT || 9090;
 dotenv_1.default.config();
 dotenv_1.default.config({
@@ -22,6 +23,9 @@ app.use((0, cors_1.default)());
 app.use(express_1.default.json({ limit: "50mb" }));
 app.use(express_1.default.urlencoded({ limit: "50mb", extended: true }));
 app.use(express_1.default.static("public"));
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
+app.use(express_1.default.static(path.join(__dirname, 'public')));
 app.use((0, cors_1.default)({
     origin: process.env.ALLOWED_DOMAINS?.split(" "),
     credentials: true,
