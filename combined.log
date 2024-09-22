@@ -304,3 +304,7 @@
 {"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:51:02.945Z"}
 {"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-21T18:51:41.783Z"}
 {"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-21T18:51:41.797Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-22T05:43:33.614Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-22T05:43:33.621Z"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"user-service","timestamp":"2024-09-22T05:52:56.921Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:9003","service":"user-service","timestamp":"2024-09-22T05:52:56.925Z"}
